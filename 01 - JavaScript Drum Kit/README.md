@@ -1,7 +1,7 @@
 # Exercise 1: JavaScript Drum Kit
 
-Nitish Dayal, Software & Applications Developer - [Contact](http://nitishdayal.me)  
-Last Commit Date: May 12, 2017
+Ram kumar, Front-end and asp.net c# developer
+Last Commit Date: Mar 31, 2022
 
 An HTML page displays a collection of `div` elements, each containing a letter
 that corresponds with a key on the keyboard, and the name of the soundclip to be
