@@ -46,4 +46,4 @@ The starter files (available [here](https://github.com/wesbos/JavaScript30)) inc
 
 ## Table Of Contents
 
-1.  [JavaScript Drum Kit](/exercises/01%20-%20JavaScript%20Drum%20Kit)
+1.  [JavaScript Drum Kit](https://github.com/RamTheGreatDeveloper/javaScript30/tree/main/01%20-%20JavaScript%20Drum%20Kit)
