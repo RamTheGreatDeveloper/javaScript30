@@ -1,5 +1,6 @@
 # Exercise 4: Array Cardio
 Ram kumar, Front-end & asp.net devloper 
+
 Last commit date: Apr 05, 2022
 
 Not really much of a guide necessary for this one. The challenge is pretty well documented as far as what's expected from the developer; use builut-in array methods and perform the necessary operations to provide the expectd values. Easy peasy.
